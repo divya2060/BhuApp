@@ -1,7 +1,6 @@
 import React from 'react';
 import './Home.css';
 import bhawan from './images/bhawan.webp';
-import parshuram from './images/Parshuram.jpg'
 import logo from './images/logo.jfif';
 import location from './images/location.png'
 const Home = () => {
