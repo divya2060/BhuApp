@@ -37,9 +37,6 @@ const Home = () => {
        <img src={bhawan} alt='Parshuram bhawan'/>
         </div>
     </div>
-    <div className='mark'>
-      <marquee direction='left'><p><span>WELCOME:</span>   This is the Offical Website Of the Bhumiar Samaj Bhilai.</p></marquee>
-    </div>
     <div className='cont2'>
     <div className='b1'>
      
