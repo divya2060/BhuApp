@@ -28,18 +28,11 @@ h2{
     text-align: center;
     color: orangered;
 }
-.mark{
-    height: 40px;
-    width: 100vw;
-    background-color: rgb(243, 151, 13);
-    background-image: url('./images/flashImg.png');
-}
+
 .cont2{
     height: 165vh;
 }
-span{
-    color: aqua;
-}
+
 .b1{
     height: 70vh;
     width: 100vw;
