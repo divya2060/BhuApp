@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 import './Gallery.css';
 import logo from './images/logo.jfif';
 import bhawan from './images/bhawan.webp';
