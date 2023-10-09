@@ -1,0 +1,36 @@
+.Navbar{
+    display: flex;
+}
+.logo{
+    width:12vw;
+    height:10vh;
+}
+.logo img{
+    width: 100%;
+    height:100%;    
+
+}
+.nav{
+    display: flex;
+    width: 88vw;
+    justify-content: space-evenly;
+    height: 10vh;
+    background-color: orangered;
+}
+nav .a{
+    font-family:'Times New Roman', Times, serif;
+    margin-top: 12px;
+    color: white;
+    text-decoration: none;
+    font-size: 1.5vw;
+    transition: 1s;
+}
+nav .a:hover{
+color: lightseagreen;
+font-size: 2vw;
+}
+@media (max-width:600px) {
+    nav .a{
+        font-size:1.6vh;
+    }
+}
